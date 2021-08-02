@@ -47,7 +47,7 @@ p {
   padding-bottom: 175px;
   margin: 0 auto;
   background-color: #334257;
-  background-image: url(...../images/Stars6-img.png);
+  background-image: url(../images/Stars6-img.png);
   background-size: cover;
   background-position: center;
 }
